@@ -1,4 +1,5 @@
 syntax on
+set encoding=utf-8
 set number
 nnoremap <F2> :set nonumber!<CR>:set foldcolumn=0<CR>
 filetype plugin indent on
