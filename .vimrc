@@ -11,3 +11,8 @@ autocmd FileType python set complete+=k~/.vim/syntax/python.vim isk+=.,(
 ""always use spaces - python and ruby like those
 set tabstop=4 shiftwidth=4
 set expandtab
+
+""search enhancements
+set hlsearch
+set ignorecase
+set smartcase
