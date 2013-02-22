@@ -16,3 +16,4 @@ set expandtab
 set hlsearch
 set ignorecase
 set smartcase
+set incsearch
